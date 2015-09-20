@@ -2,7 +2,7 @@
 
 
 taskMasterOptions = 
-  dirname: 'src/gulp' 
+  dirname: '_src/gulp' 
   pattern: '*.coffee' 
   cwd: process.cwd() 
   watchExt: '.watch'  
