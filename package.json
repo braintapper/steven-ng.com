@@ -17,7 +17,15 @@
   },
   "homepage": "https://github.com/braintapper/steven-ng.com",
   "dependencies": {
+    "aitutils": "^0.1.14",
     "coffee-script": "^1.10.0",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-angular-templatecache": "^1.7.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-task-master": "^1.1.0",
+    "main-bower-files": "^2.9.0"
   }
 }
